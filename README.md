@@ -25,7 +25,7 @@ const delta = cubeSize + cubeDist;
 const cubeNum = 5;
 ```
 
-The one that makes the most difference is this one:
+The one coolest setting is this one:
 
 ```js
 //Rotate the cubes when transforming
