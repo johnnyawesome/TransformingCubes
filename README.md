@@ -7,7 +7,7 @@ A single cube that transforms itself into a big cube, written in JavaScript usin
 
 This is a continuation of my [ShiftingCubes Project](https://github.com/johnnyawesome/ShiftingCubes)!
 
-It uses the same codebase. For mor information, read my [blogpost](https://breaksome.tech/coding-shifting-cubes-in-p5js/) where I explain the code step-by-step.
+It uses the same codebase.
 
 ## How to use
 
